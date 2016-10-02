@@ -1,7 +1,11 @@
-/target
-/build
+target
+
+build
+
 *.class
+
 *.iml
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
