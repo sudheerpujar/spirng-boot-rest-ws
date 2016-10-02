@@ -5,10 +5,10 @@
 
 	<groupId>com.hsbc.research.spring.rest.ws</groupId>
 	<artifactId>spirng-boot-rest-ws</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spirng-boot-rest-ws</name>
+	<name>Spring Boot REST-full Webservice</name>
 	<description>Spring Boot RESTfull Webservice</description>
 
 	<parent>
